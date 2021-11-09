@@ -7,11 +7,6 @@ RSpec.describe Project, type: :model do
       expect(project.valid?).to eq(false)
     end
 
-    it "ensures the title is present" do
-      project = Project.new(title: "Title")
-      validates_presence_of: title
-    end
-
     it "should be able to save project" do
       project = Project.new(title: "Title", description: "Some description content goes here")
       expect(project.save).to eq(true)
