@@ -9,13 +9,6 @@
           null
         ]
       },
-      "/root/cs3300/app/models/application_record.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
       "/root/cs3300/app/controllers/projects_controller.rb": {
         "lines": [
           1,
@@ -139,6 +132,27 @@
         "branches": {
         }
       },
+      "/root/cs3300/app/models/user.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/root/cs3300/app/models/application_record.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
       "/root/cs3300/app/mailers/application_mailer.rb": {
         "lines": [
           0,
@@ -150,6 +164,6 @@
         }
       }
     },
-    "timestamp": 1636432711
+    "timestamp": 1638339177
   }
 }
