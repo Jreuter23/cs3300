@@ -1,14 +1,6 @@
 {
   "RSpec": {
     "coverage": {
-      "/root/cs3300/app/models/project.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          null
-        ]
-      },
       "/root/cs3300/app/controllers/projects_controller.rb": {
         "lines": [
           1,
@@ -72,7 +64,7 @@
           1,
           null,
           1,
-          8,
+          9,
           null,
           null,
           null,
@@ -84,6 +76,14 @@
       },
       "/root/cs3300/app/controllers/application_controller.rb": {
         "lines": [
+          1,
+          null
+        ]
+      },
+      "/root/cs3300/app/models/project.rb": {
+        "lines": [
+          1,
+          1,
           1,
           null
         ]
@@ -164,6 +164,6 @@
         }
       }
     },
-    "timestamp": 1638339177
+    "timestamp": 1638905450
   }
 }
